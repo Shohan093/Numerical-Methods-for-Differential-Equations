@@ -1,5 +1,5 @@
 # solution to the differential equation y' = y - t^2 + 1, y(0) = 0.5, with 0<=t<=2
-# exact solution for this differential equaiton is y = (t + 1)^2 - 0.5 * exp(t)
+# exact solution for this differential equation is y = (t + 1)^2 - 0.5 * exp(t)
 # for more accurate results decrease the step size
 
 from typing import Any
@@ -30,7 +30,7 @@ y_val[0] = y0
 # applying the modified Euler's method
 for i in range(1, n + 1):
     t_val[i] = round(t_val[i - 1] + h, 3)
-    slope = dydt(t_val[i - 1], y_val[i - 1]); # slope
+    slope = dydt(t_val[i - 1], y_val[i - 1]) # slope
     y_est = y_val[i - 1] + h * slope # using slope to estimate next point
     slope_ext = dydt(t_val[i - 1] + h, y_est) # estimating slope at next point
     y_val[i] = round(y_val[i - 1] + 0.5 * h * (slope_ext + slope), 7) # determine next value of y
