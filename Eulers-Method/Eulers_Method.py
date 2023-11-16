@@ -1,5 +1,5 @@
 # solution to the differential equation y' = y - t^2 + 1, y(0) = 0.5, with 0<=t<=2
-# exact solution for this differential equaiton is y = (t + 1)^2 - 0.5 * exp(t)
+# exact solution for this differential equation is y = (t + 1)^2 - 0.5 * exp(t)
 # for more accurate results decrease the step size
 
 from typing import Any
