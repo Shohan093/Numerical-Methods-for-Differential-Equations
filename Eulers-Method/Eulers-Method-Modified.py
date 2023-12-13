@@ -41,10 +41,11 @@ for i in range(0, n + 1):
     print("t: ", t_val[i], "\ty: ", y_val[i], "\t\texact solution: ", exact)
 
 # plotting the solution
-plt.figure('Solution')
+plt.figure('Solution', figsize=(10, 8))
 plt.plot(t_val, y_val, 'r-o')
 plt.xlabel('t')
 plt.ylabel('y')
 plt.legend('N')
+plt.grid(True)
 plt.title('Numeric Solution to a IVP')
 plt.show()
