@@ -7,4 +7,5 @@ algorithm an example has been used as well as a MATLAB live script or/and a jupy
     - Euler's Method
     - Modified Euler's Method
 - Runge-Kutta Method
-    - Runge-Kutta of Second Order *(new)*
+    - Runge-Kutta of Second-Order *(new)*
+    - Runge-Kutta of Fourth-Order *(new)*
