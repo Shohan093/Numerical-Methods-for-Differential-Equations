@@ -4,5 +4,7 @@ algorithm an example has been used as well as a MATLAB live script or/and a jupy
 
 ## Table of Contents
 - Eulers Method
-    - Euler's Method *(new)*
-    - Modified Euler's Method *(new)*
+    - Euler's Method
+    - Modified Euler's Method
+- Runge-Kutta Method
+    - Runge-Kutta of Second Order *(new)*
