@@ -12,4 +12,6 @@ algorithm an example has been used as well as a MATLAB live script or/and a jupy
 - Mid-Point Method
 - Heun's Method
 - Multi-Step Method
-    - Adams-Bashforth Two Step *(new)*
+    - Adams-Bashforth Two-Step *(new)*
+    - Adams-Bashforth Three-Step *(new)*
+    - Adams-Bashforth Four-Step *(new)*
