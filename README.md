@@ -9,5 +9,7 @@ algorithm an example has been used as well as a MATLAB live script or/and a jupy
 - Runge-Kutta Method
     - Runge-Kutta of Second-Order
     - Runge-Kutta of Fourth-Order
-- Mid-Point Method *(new)*
-- Heun's Method *(new)*
+- Mid-Point Method
+- Heun's Method
+- Multi-Step Method
+    - Adams-Bashforth Two Step *(new)*
