@@ -12,6 +12,10 @@ algorithm an example has been used as well as a MATLAB live script or/and a jupy
 - Mid-Point Method
 - Heun's Method
 - Multi-Step Method
-    - Adams-Bashforth Two-Step *(new)*
-    - Adams-Bashforth Three-Step *(new)*
-    - Adams-Bashforth Four-Step *(new)*
+    - Adams-Bashforth Two-Step
+    - Adams-Bashforth Three-Step
+    - Adams-Bashforth Four-Step
+    - Adams-Moulton Two-Step *(new)*
+    - Adams-Moulton Three-Step *(new)*
+    - Adams-Moulton Four-Step *(new)*
+    - Predator-Corrector Method *(new)*
