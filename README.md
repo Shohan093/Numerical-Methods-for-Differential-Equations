@@ -15,7 +15,7 @@ algorithm an example has been used as well as a MATLAB live script or/and a jupy
     - Adams-Bashforth Two-Step
     - Adams-Bashforth Three-Step
     - Adams-Bashforth Four-Step
-    - Adams-Moulton Two-Step *(new)*
-    - Adams-Moulton Three-Step *(new)*
-    - Adams-Moulton Four-Step *(new)*
-    - Predator-Corrector Method *(new)*
+    - Adams-Moulton Two-Step
+    - Adams-Moulton Three-Step
+    - Adams-Moulton Four-Step
+    - Predator-Corrector Method
